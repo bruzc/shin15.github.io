@@ -229,9 +229,6 @@ font-family: cwTeXFangSong 宋體
         }
         
         .navbar .nav .nav-link.active,
-        .navbar .nav .nav-link.active,
-        .navbar .nav .nav-link.show,
-        .navbar .nav .nav-link.show,
         .navbar .nav .nav-link.show {
             color: #203a5d;
             background-color: #fffaf3;
@@ -239,11 +236,12 @@ font-family: cwTeXFangSong 宋體
         
         .navbar .navbar-toggle {
             border-color: #fffaf3;
+            background-color: rgba(255, 240, 243, 0.4)
         }
         
         .navbar .navbar-toggle:hover,
         .navbar .navbar-toggle:focus {
-            background-color: #fffaf3;
+            background-color: rgba(255, 240, 243, 0.9)
         }
         
         .navbar .navbar-toggle .navbar-toggler-icon {
@@ -253,6 +251,7 @@ font-family: cwTeXFangSong 宋體
         .navbar .navbar-collapse,
         .navbar .navbar-form {
             border-color: #fffaf3;
+            background-color: rgba(62, 137, 165, 0.4)
         }
         
         .navbar .navbar-link {
