@@ -234,7 +234,7 @@ font-family: cwTeXFangSong 宋體
         .navbar .nav .nav-link.show {
             color: #203a5d;
             background-color: #fffaf3;
-            box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.2);
+            box-shadow: 2px -1px 6px rgba(0, 0, 0, 0.15);
         }
         
         .navbar .navbar-toggle {
