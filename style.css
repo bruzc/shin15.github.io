@@ -171,10 +171,10 @@ font-family: cwTeXFangSong 宋體
         .card_2 {
             position: relative;
             width: 720px;
-            max-width: 90%;
+            max-width: 95%;
             height: auto;
-            float: left;
-            margin: 20px 15px;
+            margin: 30px 15px;
+            box-sizing: border-box;
         }
         
         .footer {
@@ -234,7 +234,7 @@ font-family: cwTeXFangSong 宋體
         .navbar .nav .nav-link.show {
             color: #203a5d;
             background-color: #fffaf3;
-            box-shadow: 2px -1px 6px rgba(0, 0, 0, 0.15);
+            box-shadow: 2px -1px 6px rgba(32, 58, 93, 0.15);
         }
         
         .navbar .navbar-toggle {
