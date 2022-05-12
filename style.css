@@ -80,7 +80,7 @@ font-family: cwTeXFangSong 宋體
             padding: 30px 5%;
             margin: 80px auto 0px auto;
             box-sizing: border-box;
-            background-image: url('https://drive.google.com/uc?id=1xXv2Bn8DqSga0b_ryCDoRA9EyenuS4e6&export=download');
+            background-image: url('https://drive.google.com/uc?id=1fD280lZ781ggBfwe0VGqdKhewiiwcZYF&export=download');
         }
         
         .works_board_1 {
@@ -89,7 +89,7 @@ font-family: cwTeXFangSong 宋體
             padding: 30px 10%;
             margin: 80px auto 0px auto;
             box-sizing: border-box;
-            background-image: url('https://drive.google.com/uc?id=1xXv2Bn8DqSga0b_ryCDoRA9EyenuS4e6&export=download');
+            background-image: url('https://drive.google.com/uc?id=1fD280lZ781ggBfwe0VGqdKhewiiwcZYF&export=download');
         }
         
         .works_board_2 {
@@ -98,7 +98,7 @@ font-family: cwTeXFangSong 宋體
             padding: 30px 7%;
             margin: 80px auto 0px auto;
             box-sizing: border-box;
-            background-image: url('https://drive.google.com/uc?id=1xXv2Bn8DqSga0b_ryCDoRA9EyenuS4e6&export=download');
+            background-image: url('https://drive.google.com/uc?id=1fD280lZ781ggBfwe0VGqdKhewiiwcZYF&export=download');
         }
         
         .img_my_photo {
@@ -113,7 +113,8 @@ font-family: cwTeXFangSong 宋體
             box-sizing: border-box;
             float: left;
             text-align: center;
-            background-image: url('https://drive.google.com/uc?id=1xbxoyVCiyPqTGNKvgcTY_2Xa0AJVweaf&export=download');
+            box-shadow: 3px 3px 5px 6px #cccccc;
+            background-image: url('https://drive.google.com/uc?id=1fDtW6Vb8_rrvyBYoaJ13SA2VB4yf2BaB&export=download');
         }
         
         .other_info {
@@ -188,18 +189,18 @@ font-family: cwTeXFangSong 宋體
             font-weight: normal;
             background-color: #7aacc9;
             margin: 0px auto;
-            background-image: url('https://drive.google.com/uc?id=1xXv2Bn8DqSga0b_ryCDoRA9EyenuS4e6&export=download');
+            background-image: url('https://drive.google.com/uc?id=1fD280lZ781ggBfwe0VGqdKhewiiwcZYF&export=download');
         }
         
         .navbar {
             padding: 20px;
             background-color: #7aacc9;
             font-family: Noto Sans TC, serif;
-            background-image: url('https://drive.google.com/uc?id=1xXv2Bn8DqSga0b_ryCDoRA9EyenuS4e6&export=download');
         }
         
         .navbar-toggler {
             background-color: #fffaf3;
+            background-image: url('https://drive.google.com/uc?id=1fD280lZ781ggBfwe0VGqdKhewiiwcZYF&export=download');
         }
         
         .navbar .navbar-text {
